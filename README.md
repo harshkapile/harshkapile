@@ -1,4 +1,5 @@
 <h1 align="center">Hi there 👋, I’m Harsh.</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkapile&color=0e75b6&style=flat" alt="harshkapile" /> </p>
 
 <!--
 **harshkapile/harshkapile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
